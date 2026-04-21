@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=&fontSize[감륜상]=80&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[본인이름]&fontSize=80&fontColor=fdfdfd&animation=twinkling" />
 </p>
 
 <div align="center">
   <h2>✨ "복잡함은 덜어내고, 사용자의 일상에 자연스러운 편안함을 설계합니다."</h2>
-  <p>사용자 중심의 고민을 코드로 풀어내는 개발자 <b>[감륜상]</b>입니다.</p>
+  <p>사용자 중심의 고민을 코드로 풀어내는 개발자 <b>[본인이름]</b>입니다.</p>
 </div>
 
 ---
@@ -21,8 +21,8 @@
 
 ## 🛠️ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35"> Tech Stack proficiency (기술 스택)
 
-### 🔮 Language & Frameworks
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,nest,python,django,fastapi" />
+### 🔮 Languages (요청하신 기술 추가됨)
+<img src="https://skillicons.dev/icons?i=c,py,java,js,ts,nodejs,express,react,nextjs,nest" />
 
 ### 🛰️ Database & Infra
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,kubernetes,githubactions" />
@@ -39,7 +39,7 @@
 - **Key Achievements:**
   - `네온강점` 사용자 인터페이스(UI) 최적화로 복잡도 40% 감소
   - `네온강점` 로딩 속도 개선을 통한 사용자 이탈률 방지
-- **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </details>
 

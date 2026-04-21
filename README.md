@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]&fontSize=80&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=&fontSize[감륜상]=80&fontColor=fff&animation=twinkling" />
 </p>
 
 <div align="center">
   <h2>✨ "복잡함은 덜어내고, 사용자의 일상에 자연스러운 편안함을 설계합니다."</h2>
-  <p>사용자 중심의 고민을 코드로 풀어내는 개발자 <b>[본인이름]</b>입니다.</p>
+  <p>사용자 중심의 고민을 코드로 풀어내는 개발자 <b>[감륜상]</b>입니다.</p>
 </div>
 
 ---

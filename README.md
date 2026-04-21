@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]%20 &fontSize=70&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]%20: :%20[제목1]&fontSize=70&fontColor=fff&animation=twinkling" />
 </p>
 
 <div align="center">

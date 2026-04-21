@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[본인이름]&fontSize=80&fontColor=fdfdfd&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]&fontSize=80&fontColor=fdfdfd&animation=twinkling" />
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ## 🛠️ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35"> Tech Stack proficiency (기술 스택)
 
-### 🔮 Languages (요청하신 기술 추가됨)
+### 🔮 Languages
 <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,nodejs,express,react,nextjs,nest" />
 
 ### 🛰️ Database & Infra

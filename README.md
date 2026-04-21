@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]%20: :%20[제목1]&fontSize=70&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[감륜상]&fontSize=80&fontColor=fff&animation=twinkling" />
 </p>
 
 <div align="center">
-  <h3>⚡️ "Turning Code into Neo-Reality" ⚡️</h3>
-  <p> [복잡함은 덜어내고, 사용자의 일상에 자연스러운 편안함을 설계하는 개발자입니다.]</p>
+  <h2>✨ "복잡함은 덜어내고, 사용자의 일상에 자연스러운 편안함을 설계합니다."</h2>
+  <p>사용자 중심의 고민을 코드로 풀어내는 개발자 <b>[본인이름]</b>입니다.</p>
 </div>
 
 ---
@@ -32,27 +32,14 @@
 ## 🏆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35"> Key Projects & Achievements (주요 프로젝트)
 
 <details open>
-<summary><strong>🚀 [프로젝트 GRAD] - 대용량 트래픽 처리 시스템 구축</strong></summary>
+<summary><strong>🚀 [프로젝트명 1] - 프로젝트를 대표하는 짧은 타이틀</strong></summary>
 
 - **Description:** [프로젝트에 대한 간단한 설명]
-- **Role:** [자신의 역할, 예: Backend Lead]
+- **Role:** [자신의 역할, 예: Lead Developer]
 - **Key Achievements:**
-  - `네온강점` 초당 트래픽(TPS) 300% 개선
-  - `네온강점` 응답 속도 500ms -> 100ms 단축
-  - `네온강점` 데이터베이스 부하 40% 감소
+  - `네온강점` 사용자 인터페이스(UI) 최적화로 복잡도 40% 감소
+  - `네온강점` 로딩 속도 개선을 통한 사용자 이탈률 방지
 - **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>📱 [프로젝트명 2] - 실시간 데이터 분석 플랫폼</strong></summary>
-
-- **Description:** [프로젝트에 대한 간단한 설명]
-- **Role:** [자신의 역할, 예: Frontend Developer]
-- **Key Achievements:**
-  - `네온강점` 실시간 대시보드 렌더링 최적화
-  - `네온강점` 사용자 경험(UX) 개선을 통한 체류 시간 20% 증가
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </details>
 
@@ -82,5 +69,5 @@
 </div>
 
 <div align="right">
-  <sub>Last Synced: [작성날짜]</sub>
+  <sub>Last Synced: 2026. 04. 21.</sub>
 </div>
